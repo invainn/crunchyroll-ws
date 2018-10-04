@@ -15,7 +15,6 @@ let observer = new MutationObserver((mutations) => {
     });
 });
 
-
 container.style.height = '100%';
 container.style.width = '100%';
 container.style.padding = '0';

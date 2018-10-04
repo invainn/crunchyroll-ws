@@ -8,7 +8,7 @@
     "content_scripts": [{
         "js": ["content.js"],
         "matches": [
-            "http://www.crunchyroll.com/*/episode*"
+            "https://www.crunchyroll.com/*/episode*"
         ]
     }]
 }
